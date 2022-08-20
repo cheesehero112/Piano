@@ -39,5 +39,5 @@ Maximum size piano
 
 ## References
 
-"Cafe Menu" is the 2nd project from FreeCodeCamp's Responsive Web Design course.  [FreeCodeCamp Responsive Wed Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+"Piano" is the 13th project from FreeCodeCamp's Responsive Web Design course.  [FreeCodeCamp Responsive Wed Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
