@@ -27,15 +27,15 @@
 
 Minimum size piano
 
-![Piano-screenshot1](https://github.com/cheesehero112/Cafe_Menu/raw/main/cafemenu.screenshot.png)
+![Piano-screenshot1](https://github.com/cheesehero112/Piano/raw/main/media/Piano-screenshot1.png)
 
 Medium size piano
 
-![](https://github.com/cheesehero112/Cafe_Menu/raw/main/cafemenu.screenshot.png)
+![Piano-screenshot2](https://github.com/cheesehero112/Piano/raw/main/media/Piano-screenshot2.png)
 
 Maximum size piano
 
-![Piano-screenshot3](https://github.com/cheesehero112/Cafe_Menu/raw/main/cafemenu.screenshot.png)
+![Piano-screenshot3](https://github.com/cheesehero112/Piano/raw/main/media/Piano-screenshot3.png)
 
 ## References
 
